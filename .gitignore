@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.egg-info
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# Data/files
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.npy
+
+# System
+.DS_Store
+Thumbs.db
